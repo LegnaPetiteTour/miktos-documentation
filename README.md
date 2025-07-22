@@ -1,52 +1,51 @@
 # 📚 Miktos Documentation
 
-> Comprehensive documentation for the Miktos Blender AI bridge platformiktos Documentation
-
-> Comprehensive documentation for the Miktos AI-first creative platform
+> Comprehensive documentation for the Miktos Blender AI bridge platform
 
 [![Documentation](https://img.shields.io/badge/docs-latest-blue.svg)](https://github.com/Miktos-Universe/miktos-docs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)](https://blender.org)
 
-This repository contains the complete documentation for the Miktos platform, including architecture guides, API references, tutorials, and best practices.
+This repository contains the complete documentation for the Miktos Blender AI bridge platform, including architecture guides, API references, tutorials, and best practices for professional 3D content creation through natural language commands.
 
 ## 📚 Documentation Structure
 
 ### Core Documentation
 
-- **[Architecture Guide](ARCHITECTURE.md)** - System architecture and technical design
-- **[Getting Started](GETTING_STARTED.md)** - Quick start guide for new users
-- **[API Reference](api/)** - Complete API documentation
-- **[User Guide](user-guide/)** - End-user documentation
+- **[Architecture Guide](ARCHITECTURE.md)** - Blender AI bridge architecture and technical design
+- **[Getting Started](GETTING_STARTED.md)** - Quick start guide for Blender artists
+- **[API Reference](api/)** - Complete Miktos Agent API documentation
+- **[User Guide](user-guide/)** - End-user documentation for 3D content creation
 
 ### Developer Resources
 
-- **[Development Guide](development/)** - Setting up development environment
-- **[Contributing](CONTRIBUTING.md)** - How to contribute to the project
-- **[Plugin Development](plugins/)** - Creating extensions and plugins
-- **[Workflow Templates](workflows/)** - Pre-built workflow examples
+- **[Development Guide](development/)** - Setting up Blender integration environment
+- **[Contributing](CONTRIBUTING.md)** - How to contribute to the Blender AI bridge
+- **[Workflow Development](workflows/)** - Creating custom Blender workflow skills
+- **[Blender API Templates](workflows/)** - Pre-built Blender Python script examples
 
 ### Deployment & Operations
 
 - **[Installation Guide](installation/)** - Installation instructions for all platforms
-- **[Configuration](configuration/)** - Configuration options and settings
-- **[Troubleshooting](troubleshooting/)** - Common issues and solutions
-- **[Security](security/)** - Security best practices and guidelines
+- **[Configuration](configuration/)** - Configuration options and Blender settings
+- **[Troubleshooting](troubleshooting/)** - Common issues and Blender-specific solutions
+- **[Security](security/)** - Security best practices for local AI processing
 
 ## 🚀 Quick Navigation
 
-### For Users
+### For Blender Artists
 
 - [Installation Guide](installation/README.md)
 - [User Guide](user-guide/README.md)
-- [Workflow Examples](workflows/README.md)
+- [Blender Workflow Examples](workflows/README.md)
 - [FAQ](troubleshooting/FAQ.md)
 
 ### For Developers
 
 - [Development Setup](development/setup.md)
 - [Architecture Overview](ARCHITECTURE.md)
-- [API Documentation](api/README.md)
-- [Plugin Development](plugins/README.md)
+- [Miktos Agent API Documentation](api/README.md)
+- [Blender Workflow Development](workflows/README.md)
 
 ### For Contributors
 
