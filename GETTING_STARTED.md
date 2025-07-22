@@ -1,6 +1,6 @@
 # 🚀 Miktos Development - Getting Started
 
-> **Quick setup guide** for local development of the Miktos AI-first creative platform
+> **Quick setup guide** for local development of the Miktos Blender AI Bridge platform
 
 ## 📋 Prerequisites
 
@@ -10,6 +10,7 @@ Before starting development, ensure you have the following installed:
 - **Node.js** 18+ and npm
 - **Rust** 1.70+ and Cargo (for Tauri)
 - **Python** 3.9+ with pip
+- **Blender** 3.0+ (for 3D content creation)
 - **Git** for version control
 
 ### **Development Tools**

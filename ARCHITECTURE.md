@@ -2,7 +2,7 @@
 
 ## Overview
 
-Miktos is an AI-first creative platform designed for 3D animation and content generation. The platform consists of multiple interconnected components that work together to provide a seamless creative workflow experience.
+Miktos is a specialized Blender AI bridge designed for professional 3D content creation through natural language commands. The platform consists of multiple interconnected components that work together to provide intelligent automation of Blender workflows.
 
 ## System Architecture
 
@@ -10,22 +10,22 @@ Miktos is an AI-first creative platform designed for 3D animation and content ge
 ┌─────────────────────────────────────────────────────────────┐
 │                    Miktos Platform                          │
 ├─────────────────┬─────────────────┬─────────────────────────┤
-│   Desktop App   │   AI Bridge     │    Workflow Engine     │
-│   (Frontend)    │   (Backend)     │    (ComfyUI)           │
+│   Desktop App   │  Miktos Agent   │    Blender Engine      │
+│   (Frontend)    │   (Backend)     │    (3D Creation)       │
 │                 │                 │                         │
 │  ┌───────────┐  │  ┌───────────┐  │  ┌───────────────────┐ │
-│  │  React    │  │  │  FastAPI  │  │  │    ComfyUI        │ │
-│  │TypeScript │  │  │  Python   │  │  │    Workflows      │ │
-│  │  Tauri    │  │  │  Async    │  │  │    Custom Nodes   │ │
+│  │  React    │  │  │  FastAPI  │  │  │    Blender        │ │
+│  │TypeScript │  │  │  Python   │  │  │    Python API     │ │
+│  │  Tauri    │  │  │  Async    │  │  │    3D Workflows   │ │
 │  └───────────┘  │  └───────────┘  │  └───────────────────┘ │
 └─────────────────┴─────────────────┴─────────────────────────┘
          │                   │                   │
-         │        HTTP/WS    │       Python      │
+         │        HTTP/WS    │     Python API    │
          └───────────────────┼───────────────────┘
                              │
                     ┌────────▼────────┐
                     │   File System   │
-                    │   Models        │
+                    │   3D Skills     │
                     │   Workflows     │
                     │   Outputs       │
                     └─────────────────┘
