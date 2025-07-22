@@ -1,4 +1,6 @@
-# Miktos Documentation
+# 📚 Miktos Documentation
+
+> Comprehensive documentation for the Miktos Blender AI bridge platformiktos Documentation
 
 > Comprehensive documentation for the Miktos AI-first creative platform
 
@@ -57,9 +59,9 @@ This repository contains the complete documentation for the Miktos platform, inc
 
 The Miktos platform consists of several interconnected components:
 
-1. **[Desktop Application](https://github.com/Miktos-Universe/miktos-desktop)** - Cross-platform desktop app
-2. **[AI Bridge](https://github.com/Miktos-Universe/miktos-ai-bridge)** - Python backend for AI operations
-3. **[Workflow Engine](https://github.com/Miktos-Universe/miktos-workflows)** - ComfyUI integration and templates
+1. **[Desktop Application](https://github.com/Miktos-Universe/miktos-desktop)** - Cross-platform desktop app hosting Miktos Agent
+2. **[Miktos Agent](https://github.com/Miktos-Universe/miktos-ai-bridge)** - Python backend for Blender operations
+3. **[Blender Skills](https://github.com/Miktos-Universe/miktos-workflows)** - Blender workflow expertise and 3D skills
 
 ## 📖 Getting Started
 
